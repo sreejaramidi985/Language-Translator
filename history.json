@@ -1,0 +1,92 @@
+[
+    {
+        "input": "hello how are you",
+        "translated": "హలో ఎలా ఉన్నారు",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hii how are you",
+        "translated": "హాయ్ ఎలా ఉన్నావు",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "sathwika",
+        "translated": "సాత్విక",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "sathwika sister sreeja",
+        "translated": "సాత్విక సోదరి శ్రీజ",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hi dude",
+        "translated": "hi dude",
+        "source": "French",
+        "target": "English"
+    },
+    {
+        "input": "hi dude",
+        "translated": "హాయ్ బావ",
+        "source": "French",
+        "target": "Telugu"
+    },
+    {
+        "input": "hi dude",
+        "translated": "హాయ్ బావ",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hi dude em chestunav",
+        "translated": "హాయ్ డ్యూడ్ ఎం చేస్తున్నావ్",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "tinnava",
+        "translated": "తిన్నావా",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "tinnava",
+        "translated": "తిన్నావా",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hello",
+        "translated": "నమస్కారం",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hello siri",
+        "translated": "నమస్కారం సిరి",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hello siri",
+        "translated": "வணக்கம் ஸ்ரீ",
+        "source": "English",
+        "target": "Tamil"
+    },
+    {
+        "input": "hii how are you",
+        "translated": "హాయ్ ఎలా ఉన్నావు",
+        "source": "English",
+        "target": "Telugu"
+    },
+    {
+        "input": "hello how are you",
+        "translated": "హలో ఎలా ఉన్నారు",
+        "source": "English",
+        "target": "Telugu"
+    }
+]
